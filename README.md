@@ -30,35 +30,25 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The global collaborative authoring and digital publishing workflow software market is estimated at approximately **$2.9B to $3.4B** (projected to reach over **$8.8B+** by the early 2030s at an ~12–13% CAGR). The sector is **moderately fragmented**: mega-cap creative giants (notably Adobe) capture dominant mindshare and standard file formats, while a diverse tier of specialized publishing lifecycle providers (WoodWing, Bynder/GatherContent, Quark, and vjoon) compete across enterprise multi-channel publishing and custom compliance workflows alongside emerging open-source platforms.
 
 ## SaaS/Hosted Platforms
 
-
-
-| Product | Description | Pricing | Free Tier Limit |
-
-| :--- | :--- | :--- | :--- |
-
-| **[Adobe InCopy](https://www.adobe.com/products/incopy.html)** | Professional copy editing and writing tool that integrates with Adobe InDesign for print/digital publishing workflows. | **Included with Creative Cloud** subscriptions (from ~$22.99/mo for single app) . Standalone not sold separately. | **7-day free trial** of Creative Cloud . No permanent free tier. |
-
-| **[WoodWing Studio](https://www.woodwing.com/)** | Content creation and workflow platform for publishers, agencies, and marketing teams. | Quote-only. Starting price listed at **$99/month/user** on some marketplaces . | No permanent free tier. Demo available. |
-
-| **[vjoon K4](https://www.vjoon.com/)** | Publishing system tightly integrated with Adobe InDesign/InCopy for magazine and corporate publishing. | Quote-only. Starting price listed at **$99/month/user** on some directories . | **No free version and no free trial** per vendor listings . |
-
-| **[QuarkCopyDesk](https://www.quark.com/)** | Standalone text editor compatible with QuarkXPress, designed for collaborative editorial workflows. | Quote-only. Enterprise-tier pricing. | Trialware available . No permanent free tier. |
-
-| **[GatherContent](https://gathercontent.com/)** | Content operations platform for planning, creating, and publishing content at scale. | **Starting from $99/month** (per GetApp listing) . | Free trial available. No permanent free tier. |
-
-
+| Product | Description | Company Size (Revenue / Valuation) | Pricing | Free Tier Limit |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Adobe InCopy](https://www.adobe.com/products/incopy.html)** | Professional copy editing and writing tool that integrates with Adobe InDesign for print/digital publishing workflows. | **~$26B ARR** (~$100B Market Cap, NASDAQ: ADBE) | **$4.99/mo** (annual plan billed monthly) or **$7.49/mo** (month-to-month); standalone subscription or part of Adobe Creative Cloud. | **7-day free trial** with full access to standalone InCopy and Creative Cloud storage/features; no permanent free tier. |
+| **[GatherContent](https://gathercontent.com/)** | Content operations platform for planning, creating, and publishing content at scale (Content Workflow by Bynder). | **~$130M+ ARR** (Parent company Bynder, backed by Thomas H. Lee Partners) | Starting from **$99/mo** (Starter tier for up to 500 items, ~10 active projects, unlimited users). | **14-day free trial** with full access to project authoring, workflows, and templates; no permanent free tier. |
+| **[WoodWing Studio](https://www.woodwing.com/)** | Content creation and workflow platform for publishers, agencies, and marketing teams. | **~€70M+ Combined Revenue** (Omnidocs + WoodWing under Main Capital Partners) | Starting from **$99/user/month** (Starter package, custom enterprise quote required for scale). | **No permanent free tier and no self-service trial**; evaluations available via personalized guided product demos and proofs-of-concept. |
+| **[QuarkCopyDesk](https://www.quark.com/)** | Standalone text editor compatible with QuarkXPress, designed for collaborative editorial workflows. | **~$65M–$70M Revenue** (Acquired by Zax.ai; formerly owned by Parallax Capital Partners) | Starting from **$313 one-time perpetual license** (QuarkCopyDesk standalone); enterprise Quark Publishing Platform (QPP) requires quote. | **7-day free trial** of QuarkCopyDesk (file export and save restrictions apply until license activation); no permanent free tier. |
+| **[vjoon K4](https://www.vjoon.com/)** | Publishing system tightly integrated with Adobe InDesign/InCopy for magazine and corporate publishing. | **~$2.4M Revenue** (Privately held, vjoon GmbH) | Starting from **$99/user/month** (Directory benchmark; custom quote required based on deployment model and user seats). | **No permanent free tier and no public self-service trial**; evaluations provided via private consultation and tailored live vendor demos. |
 
 ## Open-Source GitHub Projects
 
