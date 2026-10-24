@@ -60,7 +60,7 @@ The global collaborative authoring and digital publishing workflow software mark
 
 ## 💻 Open-Source & Self-Hosted Projects
 
-All repositories below are open-source and sorted in **descending order by GitHub Stars_Count**. Each project includes a real-time stargazer badge linking directly to its stargazer community.
+All repositories below are open-source and sorted in **descending order by GitHub_Stars_Count**. Each project includes a real-time stargazer badge linking directly to its stargazer community.
 
 ### Top Open-Source Software (Ranked by Stars)
 
